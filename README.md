@@ -15,10 +15,10 @@ Steps to test on OSX:
 
 Signal Plot ScreenShot
 ======================
-![alt tag](https://raw.githubusercontent.com/boeyeb/NetworkDeck/blob/master/signal.png)
+![alt tag](https://github.com/boeyeb/NetworkDeck/blob/master/signal.png)
 
 Constellation Plot ScreenShot
 ======================
-![alt tag](https://raw.githubusercontent.com/boeyeb/NetworkDeck/blob/master/constellation.png)
+![alt tag](https://github.com/boeyeb/NetworkDeck/blob/master/constellation.png)
 
 
