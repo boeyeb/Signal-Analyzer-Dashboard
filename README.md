@@ -12,3 +12,13 @@ Steps to test on OSX:
 2. open DAQWebSocketServer.xcodeproj
 3. Build & run
 4. open http://localhost:9980
+
+Signal Plot ScreenShot
+======================
+![alt tag](https://raw.githubusercontent.com/boeyeb/NetworkDeck/blob/master/signal.png)
+
+Constellation Plot ScreenShot
+======================
+![alt tag](https://raw.githubusercontent.com/boeyeb/NetworkDeck/blob/master/constellation.png)
+
+
