@@ -1,0 +1,88 @@
+body {
+width: 1px;
+min-width: 100%;
+*width: 100%;
+}
+
+.mt10{
+    margin-top:10px;
+}
+
+.mt15{
+    margin-top:25px;
+}
+
+.mt25{
+    margin-top:25px;
+}
+
+.mt50{
+    margin-top:50px;
+}
+
+.fixed-btn70 {
+    width: 70px !important;
+}
+
+.fixed-btn100 {
+    width: 100px !important;
+}
+
+
+.fixed-btn125 {
+    width: 125px !important;
+}
+
+.center1 {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.center2 {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.center3 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.smbox{
+    height: 648px;
+    width: 648px;
+}
+
+.lgbox{
+    height: 864px;
+    width: 864px;
+}
+.alignLeft
+{
+    text-align: left;
+}
+
+.well.daq{
+    background: #1ca8dd;
+}
+.well.daq1{
+    background: #9f86ff;
+}
+.rangeIndicator
+{
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+}
+
+.mytab {
+    vertical-align: middle;
+    position: relative;
+    z-index: 2;
+    display: inline-block;
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
+
+
